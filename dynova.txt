@@ -1,0 +1,10 @@
+Dynova polevka
+
+suroviny:
+dyne
+kari
+zazvor
+sul
+pepr
+
+nakrajej dyni
