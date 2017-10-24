@@ -7,4 +7,6 @@ zazvor
 sul
 pepr
 
+postup:
 nakrajej dyni
+osmaz dyni
