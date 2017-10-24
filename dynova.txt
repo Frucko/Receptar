@@ -10,3 +10,4 @@ pepr
 postup:
 nakrajej dyni
 osmaz dyni
+pridej kari
