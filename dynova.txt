@@ -11,3 +11,4 @@ postup:
 nakrajej dyni
 osmaz dyni
 pridej kari
+pridej vodu
